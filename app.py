@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Título principal
-st.title("🚀 Mi Primera App Streamlit en Docker")
+st.title("🚀 Mi Primera App Streamlit en Docker y ACR")
 st.markdown("---")
 
 # Sidebar
