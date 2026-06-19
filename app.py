@@ -69,7 +69,7 @@ def consultar_hora_mongodb():
 
 
 # Título principal
-st.title("🚀 App Streamlit en Azure Web App + Docker + ACR + MongoDB Atlas")
+st.title("🚀 App Streamlit en Azure Web App + Docker + ACR + MongoDB Atlas Minchola")
 st.markdown("---")
 
 st.info(
